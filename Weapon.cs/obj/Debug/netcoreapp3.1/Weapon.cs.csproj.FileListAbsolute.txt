@@ -1,0 +1,13 @@
+/Users/elenasaryceva/Projects/Weapon.cs/Weapon.cs/bin/Debug/netcoreapp3.1/Weapon.cs.deps.json
+/Users/elenasaryceva/Projects/Weapon.cs/Weapon.cs/bin/Debug/netcoreapp3.1/Weapon.cs.runtimeconfig.json
+/Users/elenasaryceva/Projects/Weapon.cs/Weapon.cs/bin/Debug/netcoreapp3.1/Weapon.cs.runtimeconfig.dev.json
+/Users/elenasaryceva/Projects/Weapon.cs/Weapon.cs/bin/Debug/netcoreapp3.1/Weapon.cs.dll
+/Users/elenasaryceva/Projects/Weapon.cs/Weapon.cs/bin/Debug/netcoreapp3.1/Weapon.cs.pdb
+/Users/elenasaryceva/Projects/Weapon.cs/Weapon.cs/obj/Debug/netcoreapp3.1/Weapon.cs.csproj.AssemblyReference.cache
+/Users/elenasaryceva/Projects/Weapon.cs/Weapon.cs/obj/Debug/netcoreapp3.1/Weapon.cs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elenasaryceva/Projects/Weapon.cs/Weapon.cs/obj/Debug/netcoreapp3.1/Weapon.cs.AssemblyInfoInputs.cache
+/Users/elenasaryceva/Projects/Weapon.cs/Weapon.cs/obj/Debug/netcoreapp3.1/Weapon.cs.AssemblyInfo.cs
+/Users/elenasaryceva/Projects/Weapon.cs/Weapon.cs/obj/Debug/netcoreapp3.1/Weapon.cs.csproj.CoreCompileInputs.cache
+/Users/elenasaryceva/Projects/Weapon.cs/Weapon.cs/obj/Debug/netcoreapp3.1/Weapon.cs.dll
+/Users/elenasaryceva/Projects/Weapon.cs/Weapon.cs/obj/Debug/netcoreapp3.1/Weapon.cs.pdb
+/Users/elenasaryceva/Projects/Weapon.cs/Weapon.cs/obj/Debug/netcoreapp3.1/Weapon.cs.genruntimeconfig.cache
